@@ -1,0 +1,17 @@
+***** Run android
+cd android
+./gradlew clean
+cd ..
+npm run android
+
+***** Run debugger
+npx react-native start
+
+***** Open debug for React Native
+Step 1: Type "d" in terminal then click "Debug" in emulator
+Step 2: open another terminal and type "react-devtools"
+
+***** Debug Helper
+- Show storage in react native debugger
+console.log(showAsyncStorageContentInDev())
+

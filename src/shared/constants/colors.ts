@@ -1,0 +1,23 @@
+export const COLORS = {
+  Black: '#000000',
+  CatalinaBlue: "#143376",
+  White: "#FFF",
+  Cultured: '#F5F5F5',
+  Gray: "#7D7E7E",
+  Gray100: '#F6F6F6',
+  Gray200: '#D2D6DA',
+  LightSilver: "#D2D6DA",
+  PhilippineSilver: "#B1B1B1",
+  YankeesBlue: "#17203F",
+  Yellow: "#FFC547",
+  BrownYellow: "#D19E6A",
+  JapaneseIndigo: "#2c3e50",
+  Lavender: '#E6EEF8',
+  Grayscale: '#EFEFEF',
+  Tertiary: '#D19E6A',
+  Eucalyptus: '#4DD69C',
+  OldSilver: "#828282",
+  AzureishWhite: "#D5E3F3",
+  DarkCornflowerBlue:"#22408D",
+  Charleston: 'rgba(40, 40, 40, 0.3)'
+}

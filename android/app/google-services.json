@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "357092927127",
+    "project_id": "hkapp-6c318",
+    "storage_bucket": "hkapp-6c318.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357092927127:android:0de4cf42c4d541a44c6bd2",
+        "android_client_info": {
+          "package_name": "com.HKmedi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "357092927127-r44ltevtd7u8j2uaevr1aibp097hmaks.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.HKmedi",
+            "certificate_hash": "5bbf4a99846946e2724753a2b0cc0c52cecb5c01"
+          }
+        },
+        {
+          "client_id": "357092927127-dko1bih9rsfrq3ndpqt2rb06u5vmi0e6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBq9-SFa4q8yf5zt7x5uWYYdZpqQVWwCGY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "357092927127-dko1bih9rsfrq3ndpqt2rb06u5vmi0e6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "357092927127-0jcnn66hbcf2irs4stge99en7ir9oumd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.rntemplate"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
